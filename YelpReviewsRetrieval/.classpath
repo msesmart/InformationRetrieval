@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/msesmart/Documents/apache-opennlp-1.6.0/lib/opennlp-tools-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/msesmart/Documents/apache-opennlp-1.6.0/lib/opennlp-uima-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,4 @@
+1497708 1497708
+Loading 102201 review documents from C:/Dropbox/CS/Courses/InformationRetrieval/MP1/yelp
+Loading 489 stopwords from ./data/Model/english.stop
+controlVocabulary size : 1462710
