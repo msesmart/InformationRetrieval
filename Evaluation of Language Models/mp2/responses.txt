@@ -1,0 +1,24 @@
+Please place your responses to the questions in this file.
+
+Boolean Dot Product
+===================
+
+
+TF-IDF Dot Product
+==================
+
+
+Okapi BM25
+==========
+
+
+Pivoted Length Normalization
+============================
+
+
+Dirichlet Prior
+===============
+
+
+Jelinek-Mercer
+==============
